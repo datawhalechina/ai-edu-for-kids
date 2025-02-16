@@ -14,6 +14,120 @@ Datawhale中小学人工智能通识课的诞生源于Datawhale公益组的实�
 *注：需要参与者具有一定的教育/技术背景，能够为课程内容提供支持，愿意探索AI与教育结合的新模式和新方法*
 
 ## 目录
+
+<table border="1">
+    <tr>
+        <th>章节目录</th>
+        <th>模块</th>
+        <th>阶段</th>
+        <th>知识点</th>
+        <th>内容</th>
+        <th>配置人员</th>
+    </tr>
+    <tr>
+        <td rowspan="5">基础入门模块</td>
+        <td>基本概念</td>
+        <td>小学</td>
+        <td>智能定义</td>
+        <td>理解智能的定义，能区分智能与非智能，知道人工智能与生物智能的区别与联系。</td>
+        <td rowspan="5">2人</td>
+    </tr>
+    <tr>
+        <td>基本特征</td>
+        <td>小学</td>
+        <td>人工智能特征</td>
+        <td>理解人工智能的特点，知道人工智能的发展与应用的历程。</td>
+    </tr>
+    <tr>
+        <td>发展历史</td>
+        <td>小学</td>
+        <td>人工智能发展</td>
+        <td>知道人工智能发展的历史。</td>
+    </tr>
+    <tr>
+        <td>典型行业应用</td>
+        <td>小学</td>
+        <td>行业内应用经验</td>
+        <td>了解人工智能在智能制造、农业、交通、医疗、教育等行业场景中的应用。</td>
+    </tr>
+    <tr>
+        <td>关键领域技术</td>
+        <td>小学</td>
+        <td>技术领域</td>
+        <td>了解机器人技术、智能视觉、计算机视觉、生物信息学等领域的应用。</td>
+    </tr>
+    <tr>
+        <td rowspan="4">数据与感知模块</td>
+        <td>程序编程</td>
+        <td>小学</td>
+        <td>数字编码</td>
+        <td>了解数字编码与生活中的符号表示，能用数字表示文字或文本信息。</td>
+        <td rowspan="4">2人</td>
+    </tr>
+    <tr>
+        <td rowspan="3">数据集</td>
+        <td>小学</td>
+        <td>数据采集</td>
+        <td>发现问题与数据采集，能找到数据采集相关数字数据；如图片、数据、音频数据等。</td>
+    </tr>
+    <tr>
+        <td>小学</td>
+        <td>数据整合、分析、可视化</td>
+        <td>数据处理和分析能获得信息，能利用数据作图并编写报告（具体案例分析从具体任务中进行）。</td>
+    </tr>
+    <tr>
+        <td>小学</td>
+        <td>数据偏见</td>
+        <td>理解数据偏见的危害。</td>
+    </tr>
+    <tr>
+        <td rowspan="3">算法与模型模块</td>
+        <td>机器学习模式</td>
+        <td>小学</td>
+        <td>机器学习算法</td>
+        <td>回归算法，分类算法，聚类算法，降维算法，特征工程。</td>
+        <td rowspan="3">2人</td>
+    </tr>
+    <tr>
+        <td>深度学习算法</td>
+        <td>小学</td>
+        <td>深度学习算法</td>
+        <td>了解神经网络如何训练，利用深度学习算法分析复杂数据特征。</td>
+    </tr>
+    <tr>
+        <td>软件组件</td>
+        <td>小学</td>
+        <td>芯片</td>
+        <td>了解芯片的工作过程。</td>
+    </tr>
+    <tr>
+        <td rowspan="2">伦理与安全模块</td>
+        <td>人工智能伦理</td>
+        <td>小学</td>
+        <td>伦理意识</td>
+        <td>知道人工智能对社会的影响与生活产生的影响。</td>
+        <td rowspan="2">1人</td>
+    </tr>
+    <tr>
+        <td>人工智能伦理</td>
+        <td>小学</td>
+        <td>对劳动力影响</td>
+        <td>知道人工智能对劳动力市场的影响。</td>
+    </tr>
+    <tr>
+        <td>实践模块</td>
+        <td>实践</td>
+        <td>小学</td>
+        <td>动手实践</td>
+        <td>体验人工智能的具体操作。</td>
+        <td>1人</td>
+    </tr>
+</table>
+
+
+
+
+
 *这里写你的项目目录，已完成的部分用添加上跳转链接*
 - [第1章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter1/chapter1.md)
 - [第2章](https://github.com/datawhalechina/repo-template/blob/main/docs/chapter2)
