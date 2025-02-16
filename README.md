@@ -140,7 +140,11 @@ Datawhale中小学人工智能通识课的诞生源于Datawhale公益组的实�
 
 - 中小学阶段的人工智能教育研究[中小学阶段的人工智能教育研究](https://g1jjkpou7s.feishu.cn/file/CEyUb1HuYoXytxx0UFOcggYpnWg）
 - 义务教育信息科技课程标准（2022年版）[义务教育信息科技课程标准（2022年版）](https://g1jjkpou7s.feishu.cn/file/RofXbsTgzouaO4xJf1QcP3dXnBh)
-- csta-k-12-computer-science-standards[csta-k-12-computer-science-standards](https://g1jjkpou7s.feishu.cn/file/AR4IbY4uBozwqdxv4IAc6udznPf)
+- csta-k-12-computer-science-standards[csta-k-12-computer-science-standards] (https://g1jjkpou7s.feishu.cn/file/AR4IbY4uBozwqdxv4IAc6udznPf)
+- 待补充...
+
+## 项目联系人：
+Wechat: yukili_77
 
 ## 关注我们
 
