@@ -129,19 +129,18 @@ Datawhale中小学人工智能通识课的诞生源于Datawhale公益组的实�
 
 ## 模块负责人
 
-| 基本入门模块：2人
-| 数据与感知模块：2人
-| 算法与模型模块：2人
-| 伦理与安全模块：1人
-| 实践模块：1人
+- 基本入门模块：2人
+- 数据与感知模块：2人
+- 算法与模型模块：2人
+- 伦理与安全模块：1人
+- 实践模块：1人
 
-*注：表头可自定义，但必须在名单中标明项目负责人*
 
-## 参与贡献
+## 参考文献
 
-- 如果你发现了一些问题，可以提Issue进行反馈，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
-- 如果你想参与贡献本项目，可以提Pull request，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
-- 如果你对 Datawhale 很感兴趣并想要发起一个新的项目，请按照[Datawhale开源项目指南](https://github.com/datawhalechina/DOPMC/blob/main/GUIDE.md)进行操作即可~
+- 中小学阶段的人工智能教育研究[中小学阶段的人工智能教育研究](https://g1jjkpou7s.feishu.cn/file/CEyUb1HuYoXytxx0UFOcggYpnWg）
+- 义务教育信息科技课程标准（2022年版）[义务教育信息科技课程标准（2022年版）](https://g1jjkpou7s.feishu.cn/file/RofXbsTgzouaO4xJf1QcP3dXnBh)
+- csta-k-12-computer-science-standards[csta-k-12-computer-science-standards](https://g1jjkpou7s.feishu.cn/file/AR4IbY4uBozwqdxv4IAc6udznPf)
 
 ## 关注我们
 
