@@ -27,7 +27,7 @@ Datawhale中小学人工智能通识课的诞生源于Datawhale公益组的实�
     <tr>
         <td rowspan="5">基础入门模块</td>
         <td>基本概念</td>
-        <td>小学</td>
+        <td>中小学</td>
         <td>智能定义</td>
         <td>理解智能的定义，能区分智能与非智能，知道人工智能与生物智能的区别与联系。</td>
         <td rowspan="5">2人</td>
