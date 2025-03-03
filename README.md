@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b4f03e1a-10c9-42c4-a8e4-1c66c94ec5e6)![image](https://github.com/user-attachments/assets/286bbf18-9ce4-499f-8770-5f7f7b72c12e)![image](https://github.com/user-attachments/assets/a0f8daf2-0278-4a5e-8589-e7bd2ce53683)# 项目名称：面向中小学开源的AI通识课程 
+# 项目名称：面向中小学开源的AI通识课程 
 
 ## 项目信息
 
