@@ -257,9 +257,9 @@ AI伦理与社会责任是学生在智能社会中践行技术向善的价值准
 
 ## 参考文献
 
-- 中[中小学阶段的人工智能教育研究](https://g1jjkpou7s.feishu.cn/file/CEyUb1HuYoXytxx0UFOcggYpnWg)
+- [中小学阶段的人工智能教育研究](https://g1jjkpou7s.feishu.cn/file/CEyUb1HuYoXytxx0UFOcggYpnWg)
 - [义务教育信息科技课程标准（2022年版）](https://g1jjkpou7s.feishu.cn/file/RofXbsTgzouaO4xJf1QcP3dXnBh)
-- csta-k-12-computer-science-standards[csta-k-12-computer-science-standards] (https://g1jjkpou7s.feishu.cn/file/AR4IbY4uBozwqdxv4IAc6udznPf)
+- [csta-k-12-computer-science-standards](https://g1jjkpou7s.feishu.cn/file/AR4IbY4uBozwqdxv4IAc6udznPf)
 - 钟柏昌教授团队：人工智能素养量表 (https://mp.weixin.qq.com/s/y44rltdGbN7CAX5rCr0lzg)
 - 待补充...
 
