@@ -267,6 +267,7 @@ AI伦理与社会责任是学生在智能社会中践行技术向善的价值准
 - [数据与感知](https://dvkt6ap3mo2.feishu.cn/docx/TmlDdp1sHozcQ7xTg1VcvkGAn3Q?from=from_copylink)
 - [算法与模型](https://dvkt6ap3mo2.feishu.cn/docx/FXjvdzHp1oY33HxwS4ycG9jinwh?from=from_copylink)
 - [跨学科实践](https://dcnkm5sdaikh.feishu.cn/docx/Ay9IdPZqaoAfE1x3RDZcGj7pnMf?from=from_copylink)
+  
 
  *课程设计需要根据学生的认知能力，需要循序渐进、由易到难， 会根据教学实践进行动态调整*
 
