@@ -147,7 +147,13 @@ AI伦理与社会责任是学生在智能社会中践行技术向善的价值准
     </tr>
 </table>
 
-
+#### 教材
+- [基础知识](https://avc04c7nmb.feishu.cn/docx/NFV2da8vjo8OPwx7VjGcMf8onnb?from=from_copylink)
+- [伦理与安全](https://1234567890987654321.feishu.cn/docx/IgwQdLIA6oXY3TxxN03czai8njh?from=from_copylink)
+- [数据与感知](https://lgrm6exqi3.feishu.cn/docx/XZUWdfKsAo7LXVxeKdUcR2Jznpd?from=from_copylink)
+- [算法与模型](https://g1jjkpou7s.feishu.cn/docx/K2S8dyH2Xo8XDUxCokdcfpMhnsd?from=from_copylink)
+- [跨学科实践](https://lgrm6exqi3.feishu.cn/docx/TsfvdC15BoSJ0PxlhY1cwpZdnCd?from=from_copylink)
+  
 
 ### 第三学段（5-6年级）
 
